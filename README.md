@@ -351,11 +351,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ![timer output](https://github.com/s-adhithya/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/113497423/8768138a-53fe-44a0-b265-600cbdeb0190)
-
+![timer output2](https://github.com/s-adhithya/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/113497423/7dcffa82-0244-4579-a68a-443ceb5e48f7)
+![timer output3](https://github.com/s-adhithya/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/113497423/98027027-95dc-4c75-9bdf-4644ffba0f0f)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![timer graph](https://github.com/s-adhithya/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/113497423/10cada49-2f29-4048-b42c-c6eaedd55957)
+
 
 
  
